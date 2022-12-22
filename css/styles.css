@@ -1,0 +1,20 @@
+.comming {
+    font-size: 100px;
+    color: #6DCFF6;
+    font-family: 'FiraGO', sans-serif;
+    margin-top: 300px;
+    
+}
+
+.bodydiv {
+    background-color: #D1D3D4;
+    display: flex;
+    justify-content: center;
+       
+}
+.imglogo {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 320px;
+}
