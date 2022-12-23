@@ -2,9 +2,11 @@
     font-size: 100px;
     color: #6DCFF6;
     font-family: 'FiraGO', sans-serif;
-    margin-top: 300px;
+    margin-top: 250px;
     
 }
+
+
 
 .bodydiv {
     background-color: #D1D3D4;
@@ -12,6 +14,20 @@
     justify-content: center;
        
 }
+.textdiv {
+    margin-top: 50px;
+    font-family: 'FiraGO', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.textdivm {
+    margin-top: 20px;
+    font-family: 'FiraGO', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
 .imglogo {
     display: flex;
     justify-content: center;
