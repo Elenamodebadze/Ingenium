@@ -2,7 +2,7 @@
     font-size: 100px;
     color: #6DCFF6;
     font-family: 'FiraGO', sans-serif;
-    margin-top: 250px;
+    margin-top: 150px;
     
 }
 
@@ -32,5 +32,7 @@
     display: flex;
     justify-content: center;
     margin-top: 50px;
-    margin-left: 320px;
+    margin-left: 220px;
+    width: 300px;
+    height: 200px;
 }
